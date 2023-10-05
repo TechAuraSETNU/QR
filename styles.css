@@ -62,16 +62,16 @@ p{
 }
 
 p:nth-child(1) {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
     padding-bottom: 10px;
 }
 
 p:nth-child(2) {
-    font-size: 1.9rem;
+    font-size: 1.6rem;
 }
 
 p:nth-child(3) {
-    font-size: 2rem;
+    font-size: 1.8rem;
 }
 
 /* For Mobile View*/
