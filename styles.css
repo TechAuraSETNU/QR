@@ -18,8 +18,8 @@ body {
 
 .logo {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 2%;
+    left: 2%;
     max-width: 200px;
     z-index: 2;
     transform-origin: center;
@@ -50,7 +50,7 @@ body {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(255, 255, 255);
-    margin-bottom: 30px;
+    margin-top: 150px;
     padding: 0px 10px;
     background: rgba(0, 0, 0, .3);
     box-shadow: 5px 5px 20px rgba(162, 52, 151, 0.7);
@@ -62,16 +62,16 @@ p{
 }
 
 p:nth-child(1) {
-    font-size: 2rem;
+    font-size: 1.9rem;
     padding-bottom: 10px;
 }
 
 p:nth-child(2) {
-    font-size: 2.25rem;
+    font-size: 2rem;
 }
 
 p:nth-child(3) {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
 }
 
 /* For Mobile View*/
