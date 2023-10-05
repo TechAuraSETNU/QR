@@ -64,18 +64,15 @@ body {
     padding: 0px 5px;
 }
 
-p{
-    font-weight: bold;
-}
-
 p:nth-child(1) {
     font-size: 1.9rem;
     padding-bottom: 10px;
 }
 
 p:nth-child(2) {
-    font-size: 2rem;
+    font-size: 1.9rem;
 }
+
 
 
 /* For Mobile View*/
