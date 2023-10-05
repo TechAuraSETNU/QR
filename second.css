@@ -49,8 +49,7 @@ body {
     position: absolute;
     z-index: 0;
     align-self: center;
-    width: 150px;
-    /* width: 150px; */
+    width: 280px;
     padding-bottom: 15px;
 }
 
@@ -64,9 +63,13 @@ body {
     padding: 0px 5px;
 }
 
+p{
+    font-weight: bold;
+}
+
 p:nth-child(1) {
     font-size: 1.6rem;
-    padding-bottom: 180px;
+    padding-bottom: 160px;
 }
 
 p:nth-child(2) {
@@ -79,6 +82,9 @@ p:nth-child(2) {
 @media screen and (max-width: 780px) {
     body {
         background-image: url('./Image/Gif1.gif');
+    }
+    .sad {
+        width: 150px;
     }
 }
 
